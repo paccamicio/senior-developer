@@ -2,7 +2,7 @@
 
 As características que definem um programador sênior não são exatas. Um mesmo desenvolvedor pode ser considerado sênior na empresa X e pleno na empresa Y. As competências variam muito. 
 
-Queremos ter certeza que o seu perfil é exatamente [aquele que procuramos](https://gist.github.com/xthiago/bbbd615aee535190ff5adbe5bfedb871). Para isso gostariamos de te conhecer melhor através deste teste, onde você fará parte de um time de desenvolvimento fictício, resolvendo problemas comuns no dia-a-dia de qualquer empresa.
+Queremos ter certeza que o seu perfil é exatamente aquele que procuramos. Para isso gostariamos de te conhecer melhor através deste teste, onde você fará parte de um time de desenvolvimento fictício, resolvendo problemas comuns no dia-a-dia de qualquer empresa.
 
 O teste será dividido em duas partes:
 
@@ -14,16 +14,12 @@ O teste será dividido em duas partes:
 
 - Reserve entre 1 e 2 horas de seu dia para fazê-lo. 
 
-- Faça um fork deste repositório no GitHub, BitBucket ou servidor de sua preferência. Sugerimos que a visibilidade seja definida como privada, para que outros candidatos não tenham acesso aos seus *insights*.
-
-- Ao final, envie um e-mail para thiago.rodrigues@upx.com.br com o link para o repositório (conceda acesso de leitura ao usuário thiago.rodrigues@upx.com.br) + texto do seu code review. Quanto mais completo seu code review, maiores as suas changes de destacar-se dos outros candidatos.
-
-- Qualquer dúvida entre em contato através do endereço de e-mail thiago.rodrigues@upx.com.br.
+- Faça um fork deste repositório no GitHub, BitBucket ou servidor de sua preferência. Sugerimos que a visibilidade seja definida como privada, para que outros candidatos não tenham acesso aos seus *insights*
 
 
 ## O desafio
 
-Imagine que você é desenvolvedor sênior na empresa XPTO e na semana passada surgiu um projeto urgente que nem você e nem o time tinham disponibilidade para atacá-lo. A tarefa acabou ficando sob responsabilidade do Juninho, desenvolvedor Júnior da empresa, um rapaz que aprende muito rápido, mas ainda inexperiente, sem bagagem para optar pelas melhores práticas de arquitetura e codificação.
+Imagine que você é desenvolvedor sênior na empresa Neuromancer e na semana passada surgiu um projeto urgente que nem você e nem o time tinham disponibilidade para atacá-lo. A tarefa acabou ficando sob responsabilidade do Juninho, desenvolvedor Júnior da empresa, um rapaz que aprende muito rápido, mas ainda inexperiente, sem bagagem para optar pelas melhores práticas de arquitetura e codificação.
  
 A boa notícia é que a empresa possui uma cultura de coaching e code review. Você, como desenvolvedor sênior, ficou encarregado de fazer Code Review da solução adotada pelo Juninho antes que a mesma vá para produção (parte 1 do teste). 
 
